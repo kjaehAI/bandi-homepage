@@ -44,7 +44,7 @@ export default function ProductsPage() {
                 </p>
   
                 <a
-                  href={`sms:01000000000?body=${encodeURIComponent(
+                  href={`sms:010-3777-5290?body=${encodeURIComponent(
                     `${item} 제품 문의 드립니다`
                   )}`}
                   className="mt-6 inline-block rounded-full bg-white px-5 py-3 text-sm font-bold text-black transition hover:bg-white/85"

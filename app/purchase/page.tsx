@@ -31,7 +31,7 @@ export default function PurchasePage() {
           </div>
   
           <a
-            href={`sms:01000000000?body=${encodeURIComponent(
+            href={`sms:010-3777-5290?body=${encodeURIComponent(
               "안녕하세요 오디오 매입 문의 드립니다"
             )}`}
             className="mt-10 inline-block rounded-full bg-white px-7 py-4 font-bold text-black transition hover:bg-white/85"

@@ -1,5 +1,5 @@
 export default function Home() {
-  const phone = "01000000000";
+  const phone = "010-3777-5290";
   const naverCafe = "https://cafe.naver.com/bandiaudio";
 
   return (

@@ -1,6 +1,6 @@
 export default function LocationPage() {
-    const phone = "01000000000";
-    const mapLink = "https://map.naver.com/";
+    const phone = "01037775290";
+    const mapLink = "https://naver.me/F5a4k8RU";
   
     return (
       <main className="min-h-screen bg-[#120d0a] px-6 py-20 text-white">
@@ -21,8 +21,8 @@ export default function LocationPage() {
           </p>
   
           <div className="mt-10 rounded-3xl border border-white/10 bg-white/5 p-8">
-            <p>주소: 실제 주소 입력 예정</p>
-            <p className="mt-3">전화: 010-0000-0000</p>
+            <p>주소: 서울특별시 금천구 가산디지털2로 43-14가산한화비즈메트로2차 1134호</p>
+            <p className="mt-3">전화: 010-3777-5290</p>
             <p className="mt-3">영업시간: 연중무휴 365일 청음 가능</p>
           </div>
   
